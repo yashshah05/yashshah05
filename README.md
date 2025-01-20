@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yashshah05
-- 🌱 I’m currently learning Data Science Major at UBCO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yshah1005@gmail.com
+-  Hi, I’m @yashshah05
+- I’m currently a 2nd year Data Science Major at the University of British Columbia in Okanagan.
+- You can reach me at yshah1005@gmail.com or 403-918-1741
+- On my GitHub profile here I have all the assignments I've done this year for my Data Structures class.
 
 
 <!---
